@@ -1,7 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   images: {
-    domains: ["shorturl.at"],
+    domains: ["cloud.appwrite.io", "shorturl.at"],
   },
 };
 
