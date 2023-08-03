@@ -1,6 +1,6 @@
 import { Models } from "appwrite"
 
-interface Board {
+export interface Board {
     columns: Map<TypedColumn, Column>;
 }
 

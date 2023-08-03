@@ -132,7 +132,4 @@ export const useBoardStore = create<BoardState>((set, get) => ({
       }
     })
   }
-
-
-    
 }))
